@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LavaDo - To Do App", "LavaDo - To Do App\LavaDo - To Do App.csproj", "{1ED8D6E0-3A5B-4881-89A7-FBE65E64260D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED8D6E0-3A5B-4881-89A7-FBE65E64260D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED8D6E0-3A5B-4881-89A7-FBE65E64260D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED8D6E0-3A5B-4881-89A7-FBE65E64260D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED8D6E0-3A5B-4881-89A7-FBE65E64260D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCB305B5-4296-4164-8ED6-99C4C9117EC0}
+	EndGlobalSection
+EndGlobal
