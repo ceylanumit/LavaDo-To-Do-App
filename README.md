@@ -1,23 +1,19 @@
-# LavaDo - To-Do App
+# LavaDo — Desktop To-Do App
 
-LavaDo is a simple to-do application. Users can add tasks to their to-do list, check them off and remove completed tasks.
+A small C# Windows Forms task-list application.
 
 ## Features
 
-- **Adding Tasks**: You can add new tasks to the to-do list.
-- **Marking Tasks**: You can mark tasks as completed.
-- Delete Tasks**: You can remove completed tasks from the list.
+- Add tasks from a text field.
+- Check off tasks with checkboxes.
+- Remove checked tasks from the list.
+
+## Build and run
+
+1. Clone or download this repository.
+2. Open `LavaDo - To Do App/LavaDo - To Do App.sln` in Visual Studio with the **.NET desktop development** workload and the **.NET Framework 4.7.2 targeting pack**.
+3. Build the solution and run it with **F5**.
 
 ## Usage
 
-1. **Adding a Task**: Type a new task in the blue field and click the "Add" button.
-2. **Marking a Task**: Mark the task as completed by checking the box next to the added tasks.
-3. **Task Removal**: Click the "Delete" button to remove the marked completed tasks from the list.
-
-## How to Launch
-
-1. Download the project.
-2. Run the program.
-
---------------------------------------
-© 2024 LavaDo. Original creator: [ceylanumit](https://github.com/ceylanumit)
+Enter a task and click the add button. Check the tasks you want to remove, then click the delete button. The existing interface is in Turkish. Tasks are kept in memory for the current session; they are not saved between launches.
